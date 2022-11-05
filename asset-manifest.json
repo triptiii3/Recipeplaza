@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Recipeplaza/static/css/main.523e87fb.css",
+    "main.js": "/Recipeplaza/static/js/main.76557b80.js",
+    "static/media/bg3.jpg": "/Recipeplaza/static/media/bg3.667a9c7080471bd1e44a.jpg",
+    "index.html": "/Recipeplaza/index.html",
+    "main.523e87fb.css.map": "/Recipeplaza/static/css/main.523e87fb.css.map",
+    "main.76557b80.js.map": "/Recipeplaza/static/js/main.76557b80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.523e87fb.css",
+    "static/js/main.76557b80.js"
+  ]
+}
